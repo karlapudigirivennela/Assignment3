@@ -10,4 +10,4 @@ Assignment-3
 Using Numpy create random vector of size 20 having only float in the range 1-20.
 Then reshape the array to 4 by 5
 Then replace the max in each row by 0 (axis=1) 
-(you can NOT implement it via f
+(you can NOT implement it via for loop)
